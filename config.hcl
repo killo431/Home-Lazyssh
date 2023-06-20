@@ -60,7 +60,6 @@ P2Vt+Kz+mgSPgkfVowQtIHTYUr8Y5Hh0uDpnLX884zZvNn06eu4nKNyz0SuDr5D+
 
 
   # Set this to the contents of lazyssh_client_key.pub generated above.
-  authorized_key = <<-EOF
-    ssh-ed25519 [...]
-  EOF
+  authorized_key = ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDb1J63Tqf3rvnD7u7/1Y6l/a6qFZT/D8mteE1oGYB7bolCTe7CYz5b/kp9d5clHYYtjfGKorl63n8PluhSWoTZSH+H9bBXhrJgH6Z1hS/XNdZ5Oexi1uroIJXJr4feNnHi9qw3WTaVvPey+cZSprlh2xLtYavm3BUV4sbormKA5BDeOY1voG9L6VRrT/95edBAgBJRrKfJJETpJPeBKujf7uXU46fEYqpZ3Ec+b8zLr/fQqknTbhl2l7RhtixIK6mJvhNStABTZTVGxAQgZtO6YCYuBcFY4YFFHsz0CQxoX0PFYEjl4QUh4gGkfqeoSGwJCHGDczB95M1/7x+nG0AP4dLeGf4AYXAQm9ckFnQHE2g0fMN5cOSkkrZmOiaFiEb/kQS4Z324tUkIi69rePPY67TK4PFQRylFusDFkO7K3jIvBiUPILNWrDC/6lqwVNAcYYqzyLAlfLAIKOeLB3F4G/siHHHpQEQPQqn66+dO3YrRWjJBSKD61+nWKcPpccM/vqqGn8emMUON1It2sqrQs5oFiWBPVupOrgBD5QPZT6G0cH4g44OeJCjmnlkj/Q8ej14mWOI2/B6w+ggq5/5mVKhyUfPMwCcVPLmrg00q5VmSGAOiFsnlOOELh+uHBPp8KuwGOF92Gl19wDKLUkqacyB7acgJ0q+ukzDeGEX5zQ== text 2.txt-19062023
+
 }
